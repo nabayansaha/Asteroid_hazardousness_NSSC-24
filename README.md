@@ -1,13 +1,13 @@
 # Planetary Pookies NSSC'24 Data Analytics
 
 ## Team Information
-# Team: Planetary Pookies
-# Institution: IIT Kharagpur
-# Team Members:
-#   - Nabayan Saha
-#   - Shuvraneel Mitra
-#   - Srinjoy Das
-#   - Agnij Biswas
+Team: Planetary Pookies
+Institution: IIT Kharagpur
+Team Members:
+- Nabayan Saha
+- Shuvraneel Mitra
+- Srinjoy Das
+- Agnij Biswas
 
 ## Project Overview
 
